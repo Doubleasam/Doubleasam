@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Doubleasam
-- 👀 I’m interested in ... Frontend - Backend - Software development and Quality Assurance Testing
-- 🌱 I’m currently learning ... Automation testing with selenium
-- 💞️ I’m looking to collaborate on ...Testing, Software Dev
+- 👀 Formerly ... Frontend - Backend - Software development
+- 🌱 Now --Software Development Engineer In Test (SDET) aka Quality Assurance Engineer ... 
+- 💞️ I’m looking to collaborate on ...Automation Testing
 - 📫 How to reach me ... doubleasam92@gmail.com
 
 <!---
