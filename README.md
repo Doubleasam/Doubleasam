@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Doubleasam
-- 👀 Formerly ... Frontend - Backend - Software development
-- 🌱 Now --Software Development Engineer In Test (SDET) aka Quality Assurance Engineer ... 
-- 💞️ I’m looking to collaborate on ...Automation Testing
+- 👀 Currently... FullStack(Nodejs,Laravel, React/Angular) - SSoftware Development Engineer In Test (SDET) aka Quality Assurance Engineer 
+- 🌱 Future -- Artificial Intelligence ... 
+- 💞️ I’m looking to collaborate on ...FullStack, QA Automation
 - 📫 How to reach me ... doubleasam92@gmail.com
 
 <!---
