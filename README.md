@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm [DoubleAsam](https://github.com/Doubleasam/), Full stack Developer | Product-Manager | SDET(Automation QA-Tester)
+### 👋 Hi there, I'm [DoubleAsam](https://github.com/Doubleasam/), Full stack Developer (Web and Mobile)
 
  **I am open to**:
 
